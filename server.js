@@ -19,7 +19,7 @@ var articles = {
  'article-two': {
     title: "TECHNOLGY | rahul mishra",
     heading: "WELCOME TO OUT PAGE ",
-    date: "sep 6,2015",
+    date: "nov 11,2015",
     content: `<p>
                 WELCOME TO OUT TECHNOLGY PAGE 
             </p>`
