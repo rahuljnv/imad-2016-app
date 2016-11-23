@@ -16,8 +16,7 @@ body {
 }
 
 .img-medium {
-    border: 500px solid #a3daff;
-    height: 250px;
+    border: 5px solid #a3daff;
 }
 .container{
     max-width: 800px;
