@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 60px;
 }
 
 .center {
@@ -17,6 +16,148 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 250px;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #ff0074;
+    font-family: sans-serif;
 }
 
+.navbar{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.border{
+    border: 2px solid red;
+}
+
+.nav{
+            list-style: none;
+            display: inline-block;
+            width: 80%;
+            margin: 3% 20%;
+            padding: 0px;
+        }
+
+.nav li{
+            float: left;
+            margin-right: 10px;
+            background-color: #9775fa;
+            padding: 10px;
+            border-radius: 3px;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+
+.nav li a{
+            color: #fff;
+            text-decoration: none;
+        }
+        
+.info{
+    text-align: center;
+    color: #FFF;
+    text-transform: capitalize;
+}
+
+.footer{
+    border-top: 5px solid #96f2d7;
+    margin-top: 10px;
+    position: relative;
+    padding-top: 10px;
+    text-align: center;
+    color: #FFF;
+}
+
+#counter{
+
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+.nav li{
+            float: left;
+            margin-right: 10px;
+            background-color: #9775fa;
+            padding: 10px;
+            border-radius: 3px;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+.nav li a{
+            color: #fff;
+            text-decoration: none;
+        }
+        
+.info{
+    text-align: center;
+    color: #FFF;
+    text-transform: capitalize;
+}
+.footer{
+    border-top: 5px solid #96f2d7;
+    margin-top: 10px;
+    position: relative;
+    padding-top: 10px;
+    text-align: center;
+    color: #FFF;
+}
+#counter{
+    outline: none;
+    border: none;
+    padding: 3px 5px;
+    cursor: pointer;
+    background-color: #22b8cf;
+    color: #fff;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+
+    outline: none;
+    border: none;
+    padding: 3px 5px;
+    cursor: pointer;
+    background-color: #22b8cf;
+    color: #fff;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
